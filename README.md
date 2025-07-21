@@ -41,6 +41,8 @@ For hardware setup checkout my LinkedIn profile . link in the below.
 3.App fetches phone’s GPS location.
 4.App sends SOS alert via WhatsApp/SMS to saved contacts and nearby police station.
 
+# LinkedIn post link
+check out the link to look for the output: https://www.linkedin.com/posts/srinithia_iot-smartwearable-womensafety-activity-7353069568501706756-VGnQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEXTHlwBupGkJVoXcnnd3Xhc-NKGsjVtj90 
 # 📌Project structure
 SmartHairClip/
 ├── firmware/
