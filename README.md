@@ -55,5 +55,7 @@ SmartHairClip/
 └── README.md
 ### 📌Contact
 Hey, I am always happy to take feedback, suggestions, appreciation, Collabs too...
+
 GitHub: https://github.com/Srinithi-A
+
 LinkedIn: https://www.linkedin.com/in/srinithia?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
