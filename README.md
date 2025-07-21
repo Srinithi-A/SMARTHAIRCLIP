@@ -35,6 +35,7 @@ While researching women's safety tech, we found that **no existing solution used
 -Hybrid BLE + Wi-Fi for indoor/outdoor flexibility
 
 # 📌How it Works
+For hardware setup checkout my LinkedIn profile . link in the below.
 1.User taps their registered pinky fingerprint 3 times.
 2.ESP32 triggers BLE signal → MIT App receives.
 3.App fetches phone’s GPS location.
@@ -42,8 +43,6 @@ While researching women's safety tech, we found that **no existing solution used
 
 # 📌Project structure
 SmartHairClip/
-├── hardware/
-│ ├── circuit_diagram.png
 ├── firmware/
 │ ├── fingerprint_enroll.ino
 │ ├── sos_trigger.ino
