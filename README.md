@@ -1,4 +1,4 @@
-# SMARTHAIRCLIP
+# SMART HAIR CLIP
 A IoT project made a smart hair clip poc using ESP32 and R307 Fingerprint sensor.
 This project was built as part of our internship at **IIITDM Kancheepuram**, aimed at designing a **compact, wearable, and smart safety device** for women's safety Developed by **me and my teammate**, this Smart Hair Clip uses fingerprint recognition and IoT integration to trigger **SOS alerts in emergency situations and send the emergency alert to the emergency contact.**
 
